@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3874,
+    "id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso/canvas/",
+    "label" : {
+      "none" : [ "TallinnDanseVerso" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 122,
+              "height" : 28
+            }, {
+              "width" : 243,
+              "height" : 55
+            }, {
+              "width" : 485,
+              "height" : 110
+            }, {
+              "width" : 969,
+              "height" : 220
+            }, {
+              "width" : 1937,
+              "height" : 439
+            }, {
+              "width" : 3874,
+              "height" : 878
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3874,
+            "@id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 878
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3874,
+          "id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 878
+        },
+        "target" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso/canvas/"
+      } ]
+    } ],
+    "height" : 878
+  }, {
     "width" : 3959,
     "id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseRecto/canvas/",
     "label" : {
