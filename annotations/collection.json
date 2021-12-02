@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_recto.json" ],
+  "otherContent" : [ "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_recto.json", "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_verso.json" ],
   "@id" : "https://lucyclark90.github.io/DanseProject/annotations/collection.json",
   "label" : "All annotations loaded in lucyclark90/DanseProject project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
