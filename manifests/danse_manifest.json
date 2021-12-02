@@ -60,7 +60,7 @@
 					],
 					"otherContent": [
         {
-            "@id": "http://127.0.0.1:8887/danse_annotations_recto.json",
+            "@id": "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_recto.json",
             "@type": "sc:AnnotationList",
             "label": "My fantastic annotations"
         }
@@ -95,7 +95,7 @@
 					],
 					"otherContent": [
         {
-            "@id": "http://127.0.0.1:8887/danse_annotations_verso.json",
+            "@id": "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_verso.json",
             "@type": "sc:AnnotationList",
             "label": "My fantastic annotations two"
         }
