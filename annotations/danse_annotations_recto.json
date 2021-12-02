@@ -1,0 +1,372 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The skeleton looking off to its left is an indication of the missing sections of the original artwork. Tranditional danse macabre images involve multiple layers of society and of all ages. Here we can only see the higher levels of society, but in 'La danse macabre' at Abbaye De La Chaise-Dieu we can see the varying layers of society are portrayed.<a title=\"The Danse Macabre at La Chaise Dieu\" href=\"https://www.abbaye-chaise-dieu.com/visites/la-danse-macabre-du-xve-s/\" target=\"_blank\" rel=\"noopener\">https://www.abbaye-chaise-dieu.com/visites/la-danse-macabre-du-xve-s/",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The skeleton looking off to its left is an indication of the missing sections of the original artwork. Tranditional danse macabre images involve multiple layers of society and of all ages. Here we can only see the higher levels of society, but in 'La danse macabre' at Abbaye De La Chaise-Dieu we can see the varying layers of society are portrayed.<a title=\"The Danse Macabre at La Chaise Dieu\" href=\"https://www.abbaye-chaise-dieu.com/visites/la-danse-macabre-du-xve-s/\" target=\"_blank\" rel=\"noopener\">https://www.abbaye-chaise-dieu.com/visites/la-danse-macabre-du-xve-s/</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-12-02T16:26:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638462373443",
+    "dcterms:modified" : "2021-12-02T16:26:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3712,60,190,175"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3711.69558,59.80954h94.8556v0h94.8556v87.38982v87.38982h-94.8556h-94.8556v-87.38982z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dec266ab-b1b0-4f32-8c6a-e67b5aabb308\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This image is a particularly interesting portrayal as it contains distinctive layers of perspective - background, middleground, foreground - many of the danse macabre images are often 2D images, often cartoon-like. When compared to the popular Holbein woodcuts <img src=\"https://www.gutenberg.org/files/21790/21790-h/images/p056-t.png\" alt=\"'The Pope' : Dance of Death - Holbein\" width=\"275\" height=\"351\" />, this depiction is particularly elaborate.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This image is a particularly interesting portrayal as it contains distinctive layers of perspective - background, middleground, foreground - many of the danse macabre images are often 2D images, often cartoon-like. When compared to the popular Holbein woodcuts <img src=\"https://www.gutenberg.org/files/21790/21790-h/images/p056-t.png\" alt=\"'The Pope' : Dance of Death - Holbein\" width=\"275\" height=\"351\" />, this depiction is particularly elaborate.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "art note",
+      "@type" : "oa:Tag",
+      "chars" : "art note"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-12-02T16:34:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638462861839",
+    "dcterms:modified" : "2021-12-02T16:39:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=427,109,209,196"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M426.74946,108.87042h104.45447v0h104.45447v98.05523v98.05523h-104.45447h-104.45447v-98.05523z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_6447d0ef-432b-4de8-8d01-61f2403fa118\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"7.11027\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Empress",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Empress</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-12-02T16:18:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638461886753",
+    "dcterms:modified" : "2021-12-02T16:18:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2155,24,208,144"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2155.25682,24.13967h104.09896v0h104.09896v72.10273v72.10273h-104.09896h-104.09896v-72.10273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2ea77636-d342-48a6-9e9b-7a276f0fbc71\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Pope",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Pope</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "figure",
+      "@type" : "oa:Tag",
+      "chars" : "figure"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-12-02T16:17:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638461857643",
+    "dcterms:modified" : "2021-12-02T16:40:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=956,22,182,203"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M955.99078,21.76958h91.06346v0h91.06346v101.72887v101.72887h-91.06346h-91.06346v-101.72887z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_84f38c5a-b362-4a23-9323-b010fe315e01\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.85455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The King",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The King</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "figure",
+      "@type" : "oa:Tag",
+      "chars" : "figure"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-12-02T16:18:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638461917003",
+    "dcterms:modified" : "2021-12-02T16:41:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3416,50,203,149"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3416.14523,50.21067h101.72887v0h101.72887v74.47282v74.47282h-101.72887h-101.72887v-74.47282z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_727046a0-3c93-425e-afa8-cdf492111698\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"12.79849\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Preacher",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Preacher</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "figure",
+      "@type" : "oa:Tag",
+      "chars" : "figure"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-12-02T16:17:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638461843934",
+    "dcterms:modified" : "2021-12-02T16:41:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=60,-2,267,293"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M60.09638,-2h133.7251v0h133.7251v146.42978v146.42978h-133.7251h-133.7251v-146.42978z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a2cc9530-c919-4dff-b56d-2fde9413692c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.85455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "According to Elina Gersman's essay&nbsp;The Dance of Death in Reval (Tallinn): The Preacher and his Audience the artwork in it's 'current state measures approximately 160 x 750 cm and features thirteen life-size-figures'.<a title=\"The Dance of Death in Reval - E. Gertsman\" href=\"https://doi.org/10.2307/25067083\" target=\"_blank\" rel=\"noopener\">https://doi.org/10.2307/25067083",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>According to Elina Gersman's essay&nbsp;<em>The Dance of Death in Reval (Tallinn): The Preacher and his Audience</em> the artwork in it's 'current state measures approximately 160 x 750 cm and features thirteen life-size-figures'.<a title=\"The Dance of Death in Reval - E. Gertsman\" href=\"https://doi.org/10.2307/25067083\" target=\"_blank\" rel=\"noopener\">https://doi.org/10.2307/25067083</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "art note",
+      "@type" : "oa:Tag",
+      "chars" : "art note"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "research",
+      "@type" : "oa:Tag",
+      "chars" : "research"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-12-02T16:39:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638463170668",
+    "dcterms:modified" : "2021-12-02T16:43:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,657,3961,194"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M0,657.12231h1980.26299v0h1980.26299v96.93885v96.93885h-1980.26299h-1980.26299v-96.93885z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_1d0fd16a-5ca2-44c3-999c-0f6c340ebe1c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"12.79849\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Music and Death have been linked together and portrayed via various different mediums. A popular modern take on the danse macabre is Disney's \"The Skeleton Dance\"<iframe src=\"//www.youtube.com/embed/vOGhAV-84iI\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\">",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Music and Death have been linked together and portrayed via various different mediums. A popular modern take on the danse macabre is Disney's \"The Skeleton Dance\"<iframe src=\"//www.youtube.com/embed/vOGhAV-84iI\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "figure",
+      "@type" : "oa:Tag",
+      "chars" : "figure"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-12-02T16:22:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638462150771",
+    "dcterms:modified" : "2021-12-02T16:40:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=358,132,222,365"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M358.49084,132.33432h110.85372v0h110.85372v182.31196v182.31196h-110.85372h-110.85372v-182.31196z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b1402cb3-31fb-4386-aadb-7daef260da8a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.85455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Cardinal",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Cardinal</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "figure",
+      "@type" : "oa:Tag",
+      "chars" : "figure"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-12-02T16:18:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638461905932",
+    "dcterms:modified" : "2021-12-02T16:41:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2807,41,201,137"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2807.03185,40.7303h100.54382v0h100.54382v68.54759v68.54759h-100.54382h-100.54382v-68.54759z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_af27b874-c546-44fb-95be-b233fc1501d5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.40653\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Emperor",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Emperor</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "figure",
+      "@type" : "oa:Tag",
+      "chars" : "figure"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-12-02T16:17:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638461870398",
+    "dcterms:modified" : "2021-12-02T16:40:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1584,31,201,187"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1584.06489,31.24994h100.54382v0h100.54382v93.43355v93.43355h-100.54382h-100.54382v-93.43355z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a089739d-5c50-4bed-8bc1-77bde9030377\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.85455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+    } ]
+  } ],
+  "@id" : "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_recto.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
