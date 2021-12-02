@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 122,
+    "height" : 28
+  }, {
+    "width" : 243,
+    "height" : 55
+  }, {
+    "width" : 485,
+    "height" : 110
+  }, {
+    "width" : 969,
+    "height" : 220
+  }, {
+    "width" : 1937,
+    "height" : 439
+  }, {
+    "width" : 3874,
+    "height" : 878
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3874,
+  "@id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 878
+}
