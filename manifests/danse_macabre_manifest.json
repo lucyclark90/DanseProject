@@ -1,91 +1,114 @@
 {
-  "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_macabre_manifest.json",
-  "@type" : "sc:Manifest",
-  "label" : "Dance of Death (Danse Macabre) - Workshop of Bernt Notke",
-  "metadata" : [ ],
-  "description" : [ {
-    "@value" : "Image of leaflet depicting the artwork on display at St Nicholas' Church, Tallinn, Estonia. The artwork depicts a copy of the 15th Century original by Bernt Notke the Lubeck master which was destroyed in 1942.",
-    "@language" : "en"
-  } ],
-  "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "Stanislav Stepashko, Niguliste Museum",
-  "thumbnail" : {
-    "@id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseRecto/full/full/0/default.jpg",
-    "service" : {
-      "@context" : "http://iiif.io/api/image/2/context.json",
-      "@id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseRecto",
-      "profile" : "http://iiif.io/api/image/2/level1.json"
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://f9c1959c-2e48-4f99-be01-e778e9c79434",
+	"@type": "sc:Manifest",
+	"label": "Dance of Death (Danse Macabre) - Workshop of Bernt Notke",
+	"service": {
+		"profile": "http://iiif.io/api/search/0/search",
+		"@id": "https://dev.gdmrdigital.com/search-api/1245635613/85291788/manifests/search",
+		"@context": "http://iiif.io/api/search/0/context.json"
+	},
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Image of leaflet depicting the artwork on display at St Nicholas' Church, Tallinn, Estonia. The artwork depicts a copy of the 15th Century original by Bernt Notke the Lubeck master that was destroyed in 1942.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Stanislav Stepashko, Niguliste Museum",
+	  "thumbnail": {
+    "@id": "https://lucyclark90.github.io/DanseProject/images/TallinnDanseRecto/full/full/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://lucyclark90.github.io/DanseProject/images/TallinnDanseRecto",
+      "profile": "http://iiif.io/api/image/2/level1.json"
     }
   },
-  "sequences" : [ {
-    "@id" : "http://95286e25-7245-4400-b051-2ff0130f1510",
-    "@type" : "sc:Sequence",
-    "label" : [ {
-      "@value" : "Normal Sequence",
-      "@language" : "en"
-    } ],
-    "canvases" : [ {
-      "@id" : "http://72853ae1-b94b-48a4-ba98-313b3398b350",
-      "@type" : "sc:Canvas",
-      "label" : "Danse Leaflet - Recto",
-      "height" : 851,
-      "width" : 3959,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://7d16ecb5-cea6-47ef-bdcc-1810bb2c483e",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseRecto/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseRecto",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 851,
-          "width" : 3959
-        },
-        "on" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
-      } ],
-      "otherContent" : [ {
-        "@id" : "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_recto.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations"
-      } ]
-    }, {
-      "@id" : "http://e648caf5-092c-4ea4-93c3-9118dbc5bcc6",
-      "@type" : "sc:Canvas",
-      "label" : "Danse Leaflet - Verso",
-      "height" : 878,
-      "width" : 3874,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://9e9a0509-0dde-4c71-afb2-01bbf82ecb7e",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 878,
-          "width" : 3874
-        },
-        "on" : "http://e648caf5-092c-4ea4-93c3-9118dbc5bcc6"
-      } ],
-      "otherContent" : [ {
-        "@id" : "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_verso.json",
-        "@type" : "sc:AnnotationList",
-        "label" : "My fantastic annotations two"
-      } ]
-    } ]
-  } ],
-  "structures" : [ ]
+	"sequences": [
+		{
+			"@id": "http://95286e25-7245-4400-b051-2ff0130f1510",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://72853ae1-b94b-48a4-ba98-313b3398b350",
+					"@type": "sc:Canvas",
+					"label": "Danse Leaflet - Recto",
+					"height": 851,
+					"width": 3959,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7d16ecb5-cea6-47ef-bdcc-1810bb2c483e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://lucyclark90.github.io/DanseProject/images/TallinnDanseRecto/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://lucyclark90.github.io/DanseProject/images/TallinnDanseRecto",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 851,
+								"width": 3959
+							},
+							"on": "http://72853ae1-b94b-48a4-ba98-313b3398b350"
+						}
+					],
+					"otherContent": [
+        {
+            "@id": "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_recto.json",
+            "@type": "sc:AnnotationList",
+            "label": "My fantastic annotations"
+        }
+    ]
+				},
+				{
+					"@id": "http://e648caf5-092c-4ea4-93c3-9118dbc5bcc6",
+					"@type": "sc:Canvas",
+					"label": "Danse Leaflet - Verso",
+					"height": 878,
+					"width": 3874,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9e9a0509-0dde-4c71-afb2-01bbf82ecb7e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://lucyclark90.github.io/DanseProject/images/TallinnDanseVerso",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 878,
+								"width": 3874
+							},
+							"on": "http://e648caf5-092c-4ea4-93c3-9118dbc5bcc6"
+						}
+					],
+					"otherContent": [
+        {
+            "@id": "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_verso.json",
+            "@type": "sc:AnnotationList",
+            "label": "My fantastic annotations two"
+        }
+    ]
+				}
+			]
+		}
+	],
+	   "structures": [
+	]
 }
