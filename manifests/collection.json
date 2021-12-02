@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json",
     "label" : "Tallinn Danse"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_macabre_manifest.json",
+    "label" : "Dance of Death (Danse Macabre) - Workshop of Bernt Notke"
   } ]
 }
