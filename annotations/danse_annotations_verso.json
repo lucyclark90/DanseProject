@@ -1,0 +1,76 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "art note",
+      "@type" : "oa:Tag",
+      "chars" : "art note"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The scroll of is Middle Low German and translated to English above. The text is essentially a converstation between death and its \"victims\". The overall message is that death is a leveller: it comes to us all.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The scroll of is Middle Low German and translated to English above. The text is essentially a converstation between death and its \"victims\". The overall message is that death is a leveller: it comes to us all.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2021-12-02T16:47:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638463641278",
+    "dcterms:modified" : "2021-12-02T16:47:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=46,499,3820,379"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M46.00754,498.57489h1909.82166v0h1909.82166v189.71255v189.71255h-1909.82166h-1909.82166v-189.71255z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8d7cc498-6c03-4417-8b4d-5aa3faed1989\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e648caf5-092c-4ea4-93c3-9118dbc5bcc6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<iframe src=\"//www.youtube.com/embed/3apyEWKLfdA\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\">",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><iframe src=\"//www.youtube.com/embed/3apyEWKLfdA\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/85291788",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-12-02T16:19:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638461970283",
+    "dcterms:modified" : "2021-12-02T16:19:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lucyclark90.github.io/DanseProject/manifests/danse_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=52,10,3782,388"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M52.2694,10.15032h1891.0361v0h1891.0361v194.07381v194.07381h-1891.0361h-1891.0361v-194.07381z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_560f16ab-d920-45b2-ac93-1c207e15b99d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e648caf5-092c-4ea4-93c3-9118dbc5bcc6"
+    } ]
+  } ],
+  "@id" : "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_verso.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
