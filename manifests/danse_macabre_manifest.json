@@ -51,7 +51,7 @@
         "on" : "http://72853ae1-b94b-48a4-ba98-313b3398b350"
       } ],
       "otherContent" : [ {
-        "@id" : "https://lucyclark90.github.io/DanseProject/annotations/danse_annotations_recto.json",
+        "@id" : "http://127.0.0.1:8887/danse_annotations_recto2.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ]
